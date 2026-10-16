@@ -1,0 +1,7 @@
+/* G마켓 산스 (Gmarket Sans) — 닥터배·배랩 사이트 공통 웹폰트
+   사용: <link rel="stylesheet" href="https://baelab-create.github.io/drbae-fonts/gmarket.css">
+        body{ font-family:"Gmarket Sans", "Noto Sans KR", system-ui, sans-serif; }
+   weight: 300 Light · 500 Medium · 700 Bold  (font-display: swap — 폰트가 늦어도 글이 먼저 보인다) */
+@font-face{font-family:"Gmarket Sans";font-style:normal;font-weight:300;font-display:swap;src:url("web/GmarketSans-Light.woff2") format("woff2")}
+@font-face{font-family:"Gmarket Sans";font-style:normal;font-weight:500;font-display:swap;src:url("web/GmarketSans-Medium.woff2") format("woff2")}
+@font-face{font-family:"Gmarket Sans";font-style:normal;font-weight:700;font-display:swap;src:url("web/GmarketSans-Bold.woff2") format("woff2")}
